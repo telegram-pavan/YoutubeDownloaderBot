@@ -1,5 +1,5 @@
 # Youtube Downloader bot
-#### modified version of Aryan Vikash [YouTube download bot](https://github.com/aryanvikash/Youtube-Downloader-Bot)
+#### modified version of Aryan Vikash [YouTube download bot](https://github.com/telegram-pavan/Youtube-Downloader-Bot)
 
 #
 
@@ -59,9 +59,9 @@ Press the below button to  deploy on Heroku <br>
 
 ### Support:
 
-* Join MyTestBotZ Channel
+* Join Pavan Editor Channel
 
-<a href="https://telegram.me/MyTestBotZ"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/pavaneditor"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 ### Follow on:
 
